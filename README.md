@@ -1,17 +1,8 @@
 # NYTimes Objective-C Style Guide
 
-This style guide outlines the coding conventions of the iOS team at The New York Times. We welcome your feedback in [issues](https://github.com/NYTimes/objetive-c-style-guide/issues), [pull requests](https://github.com/NYTimes/objetive-c-style-guide/pulls) and [tweets](https://twitter.com/nytimesmobile). Also, [we're hiring](http://jobs.nytco.com/job/New-York-iOS-Developer-Job-NY/2572221/).
+This style guide outlines the coding conventions of the iOS team at Stripy Sock. We welcome your feedback in [issues](https://github.com/stripysock/objetive-c-style-guide/issues), [pull requests](https://github.com/stripysock/objetive-c-style-guide/pulls) and [tweets](https://twitter.com/stripy_sock).
 
-Thanks to all of [our contributors](https://github.com/NYTimes/objective-c-style-guide/contributors).
-
-## Introduction
-
-Here are some of the documents from Apple that informed the style guide. If something isn't mentioned here, it's probably covered in great detail in one of these:
-
-* [The Objective-C Programming Language](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
-* [Cocoa Fundamentals Guide](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html)
-* [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
-* [iOS App Programming Guide](http://developer.apple.com/library/ios/#documentation/iphone/conceptual/iphoneosprogrammingguide/Introduction/Introduction.html)
+It is based on the [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide).
 
 ## Table of Contents
 
@@ -415,6 +406,7 @@ When possible, always turn on "Treat Warnings as Errors" in the target's Build S
 
 If ours doesn't fit your tastes, have a look at some other style guides:
 
+* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 * [GitHub](https://github.com/github/objective-c-conventions)
 * [Adium](https://trac.adium.im/wiki/CodingStyle)
