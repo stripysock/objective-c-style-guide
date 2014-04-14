@@ -1,4 +1,4 @@
-# NYTimes Objective-C Style Guide
+# Stripy Sock Objective-C Style Guide
 
 This style guide outlines the coding conventions of the iOS team at Stripy Sock. We welcome your feedback in [issues](https://github.com/stripysock/objetive-c-style-guide/issues), [pull requests](https://github.com/stripysock/objetive-c-style-guide/pulls) and [tweets](https://twitter.com/stripy_sock).
 
